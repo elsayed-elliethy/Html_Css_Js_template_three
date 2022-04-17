@@ -1868,7 +1868,7 @@ footer .copyRight {
 .up {
   position: fixed;
   bottom: 10px;
-  right: -30px;
+  left: -30px;
   background-color: var(--up);
   color: var(--white);
   font-weight: bold;
@@ -1885,7 +1885,7 @@ footer .copyRight {
   color: var(--mainColor);
 }
 .show {
-  right: 10px;
+  left: 10px;
   /* background-color: #1787e0; */
 }
 
