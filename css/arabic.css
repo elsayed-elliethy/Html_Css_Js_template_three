@@ -17,6 +17,11 @@ html {
 html[lang="ar"] body {
   font-family: "Cairo", sans-serif;
 }
+@media (max-width: 360px) {
+  body {
+    overflow-x: hidden;
+  }
+}
 body {
   /* font-family: "Cairo", sans-serif; */
 
