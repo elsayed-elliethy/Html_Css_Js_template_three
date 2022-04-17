@@ -394,7 +394,7 @@ header .mega-menu .links1 li a i {
 }
 @media (max-width: 767px) {
   .landing .container {
-    height: calc(100vh - 200px);
+    height: calc(100vh - 120px);
   }
 }
 .landing .text {
