@@ -17,11 +17,7 @@ html {
 html[lang="ar"] body {
   font-family: "Cairo", sans-serif;
 }
-@media (max-width: 767px) {
-  body {
-    overflow-x: hidden;
-  }
-}
+
 body {
   /* font-family: "Cairo", sans-serif; */
 
@@ -68,6 +64,11 @@ body {
   --footerBackground: #000;
   --copyright: #fff;
   --disc1Color: #fff;
+}
+@media (max-width: 767px) {
+  body {
+    overflow-x: hidden;
+  }
 }
 a {
   text-decoration: none;
