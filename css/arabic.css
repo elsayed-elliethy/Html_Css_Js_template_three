@@ -273,7 +273,7 @@ header .links > li > a {
 }
 @media (max-width: 767px) {
   header .links > li > a {
-    padding: 10px;
+    padding: 5px;
     font-size: 14px;
     height: 40px;
   }
